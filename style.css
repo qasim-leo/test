@@ -1,0 +1,29 @@
+*{
+    margin : 0;
+    padding: 0px;
+}
+
+/* git reset  */
+/* Untracks each file from git i.e. back to working area  */
+
+/* .gitignore  */
+/* A file in folder which you can create to ignore files from repo that shouldn't be uploaded to github, they remain untracked */
+/* Write file name in this file which wanna keep untracked */
+/* *.extensionName (will ignore all files with .extensionName) files  */
+
+/* git commit -m "message" */
+/* stages the files to get pushed on next 'push command' */
+
+/* git remote  */
+/* sets address of location where changes will be pushed */
+/* git remote add origin link.git */
+
+/* git push origin master  */
+/* pushes in master  */
+
+/* git clone  */
+/* copies entire repo  */
+/* git clone link  */
+
+/* git branch */
+/* shows all branches  */
