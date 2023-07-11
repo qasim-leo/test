@@ -30,3 +30,17 @@
 
 /* git pull origin master  */
 /* check before pushing changes  */
+
+/* git branch branchName  */
+/* to create a branch  */
+
+/* git checkout branchName */
+/* to switch to branch  */
+
+/* git branch --merged  */
+/* to show the branch you wanna merge to  */
+
+/* git merge branchName  */
+/* Merging branches  */
+/* After this psuh in parent branch  */
+/* git push origin master  */
